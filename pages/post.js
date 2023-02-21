@@ -97,7 +97,7 @@ export default function Post() {
         </div>
         <button
           type="submit"
-          className="w-full bg-cyan-600 text-white font-medium p-2 my-2 rounded-lg text-sm"
+          className="w-full bg-green-600 text-white font-medium p-2 my-2 rounded-lg text-sm"
         >
           Submit
         </button>
